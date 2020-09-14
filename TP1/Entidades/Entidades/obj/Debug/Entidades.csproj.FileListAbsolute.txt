@@ -1,0 +1,6 @@
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gisel Morel\Desktop\Programacion .net\Trabajos Practicos\Entidades\Entidades\obj\Debug\Entidades.pdb
