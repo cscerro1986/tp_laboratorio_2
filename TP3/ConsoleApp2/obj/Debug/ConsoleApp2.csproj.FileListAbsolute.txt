@@ -1,0 +1,16 @@
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Archivos.dll
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Clases Abstractas.dll
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Clases instanciables.dll
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Excepciones.dll
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Archivos.pdb
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Clases instanciables.pdb
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\bin\Debug\Excepciones.pdb
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Gisel Morel\Desktop\TP3\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

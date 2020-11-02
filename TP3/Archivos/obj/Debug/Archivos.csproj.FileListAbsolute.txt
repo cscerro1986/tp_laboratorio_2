@@ -1,0 +1,9 @@
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Gisel Morel\Desktop\TP3\Archivos\obj\Debug\Archivos.pdb

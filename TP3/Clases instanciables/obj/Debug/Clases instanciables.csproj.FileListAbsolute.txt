@@ -1,0 +1,13 @@
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojAssemblyReference.cache
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\obj\Debug\Clases instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\obj\Debug\Clases instanciables.csproj.CopyComplete
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Gisel Morel\Desktop\TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb

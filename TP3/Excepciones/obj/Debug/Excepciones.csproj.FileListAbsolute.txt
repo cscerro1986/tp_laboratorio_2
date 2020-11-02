@@ -1,0 +1,6 @@
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Gisel Morel\Desktop\TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
